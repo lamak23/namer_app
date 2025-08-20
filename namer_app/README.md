@@ -1,7 +1,7 @@
 # Namer App
 
 A Flutter project that generates random names using Google’s Flutter framework.  
-This is my first programming project 🚀
+This is my first programming project 🚀 
 
 ---
 
