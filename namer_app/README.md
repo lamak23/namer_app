@@ -1,16 +1,35 @@
-# namer_app
+# Namer App
 
-A new Flutter project.
+A Flutter project that generates random names using Google’s Flutter framework.  
+This is my first programming project 🚀
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
+_Add screenshots or GIFs of your app here (optional)_
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Built With
+- [Flutter](https://flutter.dev/)  
+- [Dart](https://dart.dev/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ⚡ Features
+- Generates random names  
+- Simple, clean UI  
+- Cross-platform support (iOS, Android, Web, Desktop)
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- An IDE like [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/)
+
+### Installation
+Clone this repository:
+```bash
+git clone https://github.com/lamak23/namer_app.git
